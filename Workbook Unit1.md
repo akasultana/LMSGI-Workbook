@@ -12,11 +12,34 @@ Los lenguajes de marcas son como etiquetas que organizan información para que t
 HTML es un lenguaje para crear páginas web. Usa etiquetas para definir cómo se muestra el contenido en línea.
 ## XML
 XML es un lenguaje que organiza datos con etiquetas poder entenderlos. Se usa en muchos sitios, como en páginas web y programas y sirven para guardar y compartir información.
+
+<?xml version="1.0" encoding="utf/-8" standalone="no"?>
+<root>
+	<client dni="79965412H">
+		<name> Juan Carlos </name>
+		<lastname> Sanchéz </lastname>
+	</client>
+	<products>
+		<product fecha_inicio="10-05-2019" fecha_fin="03-10-2023">
+			<name> Apple Music </name>
+			</product>
+		<product fecha_inicio="23-07-2012" fecha_fin="05-10-2021">
+			<name> Apple Arcade </name>
+			</product>
+	</products>
+</root>
+  
 ## HTML
 Es un lenguaje para crear páginas web. Usa etiquetas para decirle al navegador cómo mostrar el contenido, como texto, imágenes y enlaces. Permite que los sitios web se vean bien y funcionen en tu computadora o teléfono.
+
+
 ## JSON
 JSON es formato de lenguaje de JavaScript que ayuda a las computadoras a compartir información. Utiliza etiquetas y valores para describir los datos de una manera que es fácil de entender para las computadoras. Se usa mucho en aplicaciones web y servicios en línea para transmitir información.
 ## YAML
+YAML es un formato de texto sencillo para representar datos estructurados. Se utiliza en configuraciones de software y otros contextos para que se puedan leer y editar fácilmente la información.
+DNI:
+Nombre:
+Apellidos:
 
 # XML: definición y características del metalenguaje
 
