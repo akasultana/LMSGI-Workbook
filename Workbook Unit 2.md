@@ -7,7 +7,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 ```
 
-La declaración define la versión de XML utilizada y la codificación de caracteres.
+Definiciones de la versión de XML utilizada y la codificación de caracteres.
 
 ### Elementos
 ```xml
