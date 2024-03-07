@@ -1,1 +1,67 @@
+# Sistemas para Organizar Datos
 
+## ¿Qué hacen?
+
+Estos sistemas ayudan a las empresas a manejar información de manera eficiente. Algunas cosas que hacen son:
+
+- **Reunir Datos en un Solo Lugar**: Todos los datos importantes se almacenan en un solo lugar para que sea fácil acceder y actualizar.
+
+- **Automatizar Tareas**: Ayudan a hacer tareas diarias automáticamente, haciendo que las cosas funcionen de manera más suave.
+
+- **Controlar Quién Puede Ver Qué**: Se aseguran de que solo las personas autorizadas puedan ver ciertos datos, manteniendo la información segura.
+
+- **Trabajar Bien con Otras Aplicaciones**: Pueden conectarse y trabajar bien con otras aplicaciones en la empresa para que todo funcione sin problemas.
+
+## Tipos
+
+Hay varios tipos de estos sistemas, pero aquí hay algunos destacados:
+
+### ERP (Planificación de Recursos Empresariales)
+
+#### ¿Qué Hace y Por Qué Es Bueno?
+
+- **Ayuda a Organizar Recursos**: Facilita la gestión de cosas como dinero, inventario y personal.
+
+- **Conecta Procesos**: Une diferentes partes del negocio para que todo funcione mejor.
+
+- **Proporciona Información Actualizada**: Ofrece datos que están siempre al día para tomar decisiones inteligentes.
+
+#### Ejemplos Populares de ERP
+
+- SAP
+- Oracle E-Business Suite
+- Microsoft Dynamics
+
+### CRM (Gestión de Relaciones con Clientes)
+
+#### ¿Qué Hace y Por Qué Es Bueno?
+
+- **Ayuda a Cuidar las Relaciones con Clientes**: Facilita la administración y mejora de relaciones con clientes.
+
+- **Registra Todas las Interacciones**: Guarda un registro de todas las veces que interactuamos con un cliente para entenderlos mejor.
+
+- **Automatiza Ventas y Marketing**: Hace más fácil vender y promocionar productos.
+
+#### Ejemplos Populares de CRM
+
+- Salesforce
+- HubSpot
+- Microsoft Dynamics 365
+
+### BI (Inteligencia Empresarial)
+
+#### ¿Qué Es y Qué Incluye?
+
+**Inteligencia Empresarial** se refiere a herramientas y procesos que transforman datos en información útil para tomar decisiones. Incluye cosas como:
+
+- **ETL (Extraer, Transformar, Cargar)**: Un proceso para manejar datos.
+
+- **Almacén de Datos**: Un lugar central para guardar datos para análisis.
+
+- **OLAP (Procesamiento Analítico En Línea)**: Permite analizar datos de diferentes maneras.
+
+- **Minería de Datos**: Encuentra patrones y tendencias en grandes cantidades de datos.
+
+- **Tablero de Control**: Muestra información clave de manera visual para tomar decisiones más fácilmente.
+
+Estas cosas juntas ayudan a obtener información valiosa para la empresa.
